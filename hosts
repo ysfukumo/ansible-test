@@ -1,6 +1,2 @@
-[local]
-192.168.33.10
-
-[local:vars]
-ansible_connection=local
+localhost ansible_connection=local
 
